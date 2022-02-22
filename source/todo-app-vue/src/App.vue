@@ -21,6 +21,6 @@ export default {
     margin-top: 0px;
   }
   body {
-    background-image: url('assets/cherry blossom.jpg');
+    background-image: url('assets/default_background.jpg');
   }
 </style>
